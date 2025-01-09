@@ -1,6 +1,6 @@
 # Hi there, I'm MihaV7! 👋
 
-Welcome to my GitHub profile! I'm passionate about web development and always eager to learn new technologies and best practices. Im still new to this and im learning on the way. Mostly i teach my-self. Below is a little bit about me.
+Welcome to my GitHub profile! I'm passionate about web development and eager to learn new technologies and best practices. Although I'm still new to this journey, I'm constantly learning and improving. Most of my knowledge comes from self-teaching. Here's a little bit about me:
 
 ## 🚀 About Me
 
@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm passionate about web development and always ea
 - 🌱 I’m currently learning Angular, DevOps, and SAP Commerce Cloud.
 - 👯 I’m looking to collaborate on web development and DevOps projects.
 - 🤔 I’m looking for help with mastering advanced Angular features and DevOps tools.
-- 📫 How to reach me: [miha.valtl@gmail.com](mailto:miha.valtl@gmail.com)
-- ⚡ Fun fact: I love exploring new web technologies and integrating them into my projects.
+- ⚡ Fun fact: When I'm not coding, I enjoy hitting the gym, gaming, and binge-watching TV series.
 
 ## 🛠️ Technologies & Tools
 
@@ -25,7 +24,10 @@ Welcome to my GitHub profile! I'm passionate about web development and always ea
 ## 📈 GitHub Stats
 
 ![MihaV7's GitHub stats](https://github-readme-stats.vercel.app/api?username=MihaV7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihaV7&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
+## 🤝 Let's Connect
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MihaV7&theme=onedark)
+- 📧 Email: [miha.valtl@gmail.com](mailto:miha.valtl@gmail.com)
+- 💼 LinkedIn: [Miha Valtl](https://www.linkedin.com/in/miha-valtl-899b75283/)
+- 🌐 Portfolio: [My Portfolio] - in the making (https://your-website.com)
