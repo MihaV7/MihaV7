@@ -30,4 +30,4 @@ Welcome to my GitHub profile! I'm passionate about web development and eager to 
 
 - 📧 Email: [miha.valtl@gmail.com](mailto:miha.valtl@gmail.com)
 - 💼 LinkedIn: [Miha Valtl](https://www.linkedin.com/in/miha-valtl-899b75283/)
-- 🌐 Portfolio: [My Portfolio] - in the making (https://your-website.com)
+- 🌐 Portfolio: [My Portfolio] - in the making
